@@ -1,0 +1,106 @@
+﻿{
+  "data": [
+    {
+      "articleid": 1,
+      "headline": "Lorem ipsum dolor sit amet consectetuer sadipscing elitr sed",
+      "abstracttext":
+        "Lorem ipsum dolor sit amet, consectetuer sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+      "url": "http:\/\/api.golem.de\/",
+      "date": 123456789,
+      "leadimg": { "url": "http:\/\/api.golem.de\/img\/example_120.png", "height": 90, "width": 120 },
+      "comments": 12,
+      "images": 5
+    }, {
+      "articleid": 1,
+      "headline": "Lorem ipsum dolor sit amet consectetuer sadipscing elitr sed",
+      "abstracttext":
+        "Lorem ipsum dolor sit amet, consectetuer sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+      "url": "http:\/\/api.golem.de\/",
+      "date": 123456789,
+      "leadimg": { "url": "http:\/\/api.golem.de\/img\/example_120.png", "height": 90, "width": 120 },
+      "comments": 12,
+      "images": 5
+    }, {
+      "articleid": 1,
+      "headline": "Lorem ipsum dolor sit amet consectetuer sadipscing elitr sed",
+      "abstracttext":
+        "Lorem ipsum dolor sit amet, consectetuer sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+      "url": "http:\/\/api.golem.de\/",
+      "date": 123456789,
+      "leadimg": { "url": "http:\/\/api.golem.de\/img\/example_120.png", "height": 90, "width": 120 },
+      "comments": 12,
+      "images": 5
+    }, {
+      "articleid": 1,
+      "headline": "Lorem ipsum dolor sit amet consectetuer sadipscing elitr sed",
+      "abstracttext":
+        "Lorem ipsum dolor sit amet, consectetuer sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+      "url": "http:\/\/api.golem.de\/",
+      "date": 123456789,
+      "leadimg": { "url": "http:\/\/api.golem.de\/img\/example_120.png", "height": 90, "width": 120 },
+      "comments": 12,
+      "images": 5
+    }, {
+      "articleid": 1,
+      "headline": "Lorem ipsum dolor sit amet consectetuer sadipscing elitr sed",
+      "abstracttext":
+        "Lorem ipsum dolor sit amet, consectetuer sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+      "url": "http:\/\/api.golem.de\/",
+      "date": 123456789,
+      "leadimg": { "url": "http:\/\/api.golem.de\/img\/example_120.png", "height": 90, "width": 120 },
+      "comments": 12,
+      "images": 5
+    }, {
+      "articleid": 1,
+      "headline": "Lorem ipsum dolor sit amet consectetuer sadipscing elitr sed",
+      "abstracttext":
+        "Lorem ipsum dolor sit amet, consectetuer sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+      "url": "http:\/\/api.golem.de\/",
+      "date": 123456789,
+      "leadimg": { "url": "http:\/\/api.golem.de\/img\/example_120.png", "height": 90, "width": 120 },
+      "comments": 12,
+      "images": 5
+    }, {
+      "articleid": 1,
+      "headline": "Lorem ipsum dolor sit amet consectetuer sadipscing elitr sed",
+      "abstracttext":
+        "Lorem ipsum dolor sit amet, consectetuer sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+      "url": "http:\/\/api.golem.de\/",
+      "date": 123456789,
+      "leadimg": { "url": "http:\/\/api.golem.de\/img\/example_120.png", "height": 90, "width": 120 },
+      "comments": 12,
+      "images": 5
+    }, {
+      "articleid": 1,
+      "headline": "Lorem ipsum dolor sit amet consectetuer sadipscing elitr sed",
+      "abstracttext":
+        "Lorem ipsum dolor sit amet, consectetuer sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+      "url": "http:\/\/api.golem.de\/",
+      "date": 123456789,
+      "leadimg": { "url": "http:\/\/api.golem.de\/img\/example_120.png", "height": 90, "width": 120 },
+      "comments": 12,
+      "images": 5
+    }, {
+      "articleid": 1,
+      "headline": "Lorem ipsum dolor sit amet consectetuer sadipscing elitr sed",
+      "abstracttext":
+        "Lorem ipsum dolor sit amet, consectetuer sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+      "url": "http:\/\/api.golem.de\/",
+      "date": 123456789,
+      "leadimg": { "url": "http:\/\/api.golem.de\/img\/example_120.png", "height": 90, "width": 120 },
+      "comments": 12,
+      "images": 5
+    }, {
+      "articleid": 1,
+      "headline": "Lorem ipsum dolor sit amet consectetuer sadipscing elitr sed",
+      "abstracttext":
+        "Lorem ipsum dolor sit amet, consectetuer sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+      "url": "http:\/\/api.golem.de\/",
+      "date": 123456789,
+      "leadimg": { "url": "http:\/\/api.golem.de\/img\/example_120.png", "height": 90, "width": 120 },
+      "comments": 12,
+      "images": 5
+    }
+  ],
+  "success": true
+}
